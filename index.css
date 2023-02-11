@@ -90,7 +90,7 @@ body p {
 nav {
   display: flex;
   margin-top: 24px;
-  margin-bottom: 68px;
+  margin-bottom: 95px;
 }
 
 nav button {
@@ -113,6 +113,13 @@ nav button:hover {
 
 main > .container-fluid {
   padding: 0;
+}
+
+
+.head-sec p{
+  width: 60%;
+  margin: auto;
+  padding: 22px 0;
 }
 
 .acheive-sec h1 {
