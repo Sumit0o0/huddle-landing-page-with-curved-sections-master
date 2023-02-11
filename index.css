@@ -178,7 +178,7 @@ main > .container-fluid {
 .btn1 {
   width: fit-content;
   height: fit-content;
-  padding: 10px 100px;
+  padding: 20px 100px;
   border-radius: 100px;
   background-color: hsl(322, 100%, 66%);
   font-family: "Poppins", sans-serif;
